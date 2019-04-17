@@ -1,0 +1,21 @@
+1024,Rohini West
+1024,Kohat Enclave
+1024,Netaji Subhash Place
+1024,Tis Hazari
+1024,Shastri Park
+1204,Kashmere Gate
+1204,Model Town
+1204,GTB Nagar
+1204,Civil Lines
+1204,Vidhan Sabha
+1204,Chandini Chowk
+1204,New Delhi
+1204,Rajiv Chowk
+1204,JLN Stadium
+1204,Central Secretariat
+1204,Hauz Khas
+1204,Saket
+1204,Qutub Minar
+1240,Subhash Nagar
+1240,Rajouri Garden
+1240,Karol Bagh
